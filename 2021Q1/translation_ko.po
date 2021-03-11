@@ -1,0 +1,1297 @@
+# Korean translations for survey.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-03-10 16:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ko\n"
+"Language-Team: ko <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+msgctxt "{\"cxt\": \"survey_next\", \"id\": 302005560, \"checksum\": 1231509419}"
+msgid "Next"
+msgstr "다음"
+
+msgctxt "{\"cxt\": \"survey_prev\", \"id\": 302005560, \"checksum\": 2414383650}"
+msgid "Prev"
+msgstr "이전"
+
+msgctxt "{\"cxt\": \"survey_done\", \"id\": 302005560, \"checksum\": 2868511031}"
+msgid "Done"
+msgstr "완료"
+
+msgctxt "{\"cxt\": \"survey_exit\", \"id\": 302005560, \"checksum\": 2585458149}"
+msgid "Exit"
+msgstr "나가기"
+
+msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 302005560}"
+msgid "Xamarin.Forms - Q1 2021"
+msgstr ""
+
+msgctxt "{\"cxt\": \"survey_ok\", \"id\": 302005560, \"checksum\": 3963427621}"
+msgid "OK"
+msgstr "확인"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 156910419}"
+msgid "General"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 158260156}"
+msgid "UI Customizations"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 158262025}"
+msgid "Accessibility"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 158270616}"
+msgid "Shell"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 158262052}"
+msgid "Future Platforms"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 156910419}"
+msgid ""
+"<div><strong>Thank you</strong> for taking time to help us improve "
+"Xamarin and related Visual Studio tools, and prepare for .NET 6 and the "
+"evolution to .NET MAUI. Learn more here: <a "
+"href=\"https://devblogs.microsoft.com/xamarin/the-new-net-multi-platform-"
+"app-ui-maui/\" rel=\"nofollow\" "
+"target=\"_blank\">https://devblogs.microsoft.com/xamarin/the-new-net-"
+"multi-platform-app-ui-maui/<br><br></a>This survey focuses on the "
+"following themes. Please take time to complete the sections that are "
+"important to you.<br><br>1. General Experience (required)<br>2. UI "
+"Customization (optional)<br>3. Accessibility (optional)<br>4. Shell "
+"(optional)<br>5. Future Platforms (optional)<br>6. Your Apps "
+"(optional)<br> </div>\n"
+"<div>We read every single response and your voice directly influences the"
+" work we prioritize every day. Thank you!</div>\n"
+"<div><br>- Xamarin Team</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 158270616}"
+msgid ""
+"<div>Shell is the easy-to-use application container that provides "
+"navigation via URI and UI elements for flyout, top and bottom tabs, and "
+"more. Please tell us about your experience using Shell, and about your "
+"usage of specific features.</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 156910420}"
+msgid ""
+"<div><strong>Thank you</strong> again for taking time to help us improve "
+"Xamarin. </div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107401}"
+msgid "What would most increase your satisfaction with Xamarin.Forms?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107402}"
+msgid "Would you be willing to follow up with our team? (Optional)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107403}"
+msgid "What is your primary IDE/editor for Xamarin development?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107404}"
+msgid ""
+"How many years of professional experience do you have in software "
+"development?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107409}"
+msgid ""
+"How likely are you to&nbsp;choose&nbsp;Xamarin.Forms for your next "
+"project?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107410}"
+msgid "To what stores do you publish your apps?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107411}"
+msgid ""
+"In the last 90 days, how satisfied or dissatisfied are you with the "
+"following?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107413}"
+msgid "What best describes your background prior to&nbsp;using Xamarin?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107417}"
+msgid "If I could use any editor to develop Xamarin.Forms apps, I would prefer:"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107418}"
+msgid "What version(s) of Xamarin.Forms are you currently using?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107419}"
+msgid ""
+"Which of the following best describes your involvement in development "
+"activities?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107420}"
+msgid "What type of customer do you primarily serve?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616115045}"
+msgid "How&nbsp;often do your app users report the following?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107406}"
+msgid ""
+"The information you provide is entirely voluntary. By filling out and "
+"returning this survey, you agree that we can use, disclose, reproduce, or"
+" otherwise distribute your feedback at the aggregated level. Your "
+"personal information will remain confidential. Please check Microsoft "
+"Privacy for more information.<br><br>Privacy link: <a "
+"href=\"http://go.microsoft.com/fwlink/?LinkId=521839\" rel=\"nofollow\" "
+"target=\"_blank\">http://go.microsoft.com/fwlink/?LinkId=521839</a>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107407}"
+msgid ""
+"In the last 3 months, to what platforms have you&nbsp;released apps that "
+"use Xamarin.Forms? (check all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107415}"
+msgid ""
+"How many Xamarin.Forms applications do you currently support in the "
+"market?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107408}"
+msgid ""
+"We LOVE to see your apps. It's both inspiring, and informative "
+"to&nbsp;see the types of UIs you are creating to help inform what we "
+"build to support you. Please share an image if you have one. (optional)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107414}"
+msgid "Anything else you would like us to know about your Xamarin experience?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107405}"
+msgid ""
+"Tell us a little bit about the current or last mobile application you "
+"work on. (optional)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 621871707}"
+msgid ""
+"What controls do you have custom renderers for in your current "
+"Xamarin.Forms applications?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107416}"
+msgid "What is the design goal of your latest Xamarin.Forms application?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 622151063}"
+msgid "I want these to look and behave _______ across platforms."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 622082220}"
+msgid ""
+"How satisfied or dissatisfied are you making your Xamarin.Forms apps "
+"accessible?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 622083252}"
+msgid "What tools do you use for testing accessibility?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 622083723}"
+msgid "What would you most like to be improved for making your apps accessible?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 622046481}"
+msgid ""
+"I have an existing mobile or desktop application that also needs to run "
+"on:"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 622047004}"
+msgid ""
+"What is your motivation for wanting those platforms to be supported in "
+".NET MAUI?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 622047684}"
+msgid "Please describe your application that is important on these platform(s)."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 622084139}"
+msgid ""
+"How satisfied or dissatisfied are you&nbsp;using Shell in your "
+"Xamarin.Forms applications?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 622086492}"
+msgid ""
+"Which UI design elements does your current or last application include? "
+"(select all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 623517951}"
+msgid ""
+"What method(s) do you use to&nbsp;pass data while navigating from page to"
+" page?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 623522040}"
+msgid "Have you used a custom Shell renderer?"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178171, \"checksum\": "
+"3707577121}"
+msgid "Name"
+msgstr "이름"
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178172, \"checksum\": "
+"1359782659}"
+msgid "Company"
+msgstr "회사"
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178173, \"checksum\": "
+"2571679548}"
+msgid "Address"
+msgstr "주소"
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178174, \"checksum\": "
+"981246277}"
+msgid "Address 2"
+msgstr "주소 2"
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178175, \"checksum\": "
+"2121756217}"
+msgid "City/Town"
+msgstr "시"
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178176, \"checksum\": "
+"419157724}"
+msgid "State/Province"
+msgstr "주/도"
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178177, \"checksum\": "
+"4289507125}"
+msgid "ZIP/Postal Code"
+msgstr "ZIP/우편 번호"
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178178, \"checksum\": "
+"3425937173}"
+msgid "Country"
+msgstr "국가"
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178179, \"checksum\": "
+"2224543374}"
+msgid "Email Address"
+msgstr "전자메일 주소"
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178180, \"checksum\": "
+"2813679032}"
+msgid "Phone Number"
+msgstr "전화 번호"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178181}"
+msgid "Visual Studio 2017"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178182}"
+msgid "Visual Studio for Mac"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178207}"
+msgid "Visual Studio 2019"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178208}"
+msgid "Visual Studio 2019 for Mac"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178222}"
+msgid "Visual Studio Code"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178223}"
+msgid "JetBrains Rider"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178184, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178193}"
+msgid "I'm currently a student"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178194}"
+msgid "0-3 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178195}"
+msgid "3-5 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178196}"
+msgid "5-10 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178344}"
+msgid "Over 10 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178232}"
+msgid "Very Unlikely"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178233}"
+msgid "Unlikely"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178234}"
+msgid "Neither likely nor unlikely"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178235}"
+msgid "Likely"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178236}"
+msgid "Very likely"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178240}"
+msgid "Apple App Store"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178241}"
+msgid "Google Play Store"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178242}"
+msgid "Internal Store"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178243}"
+msgid "Ad Hoc"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178250}"
+msgid "Windows Store"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178247, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178256}"
+msgid "Extremely dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178257}"
+msgid "Dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178258}"
+msgid "Neither satisfied nor dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178259}"
+msgid "Satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178260}"
+msgid "Extremely satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178261}"
+msgid "N/A"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178262}"
+msgid "Xamarin.Forms"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178263}"
+msgid "Xamarin.iOS"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178264}"
+msgid "Xamarin.Android"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178265}"
+msgid "Xamarin.Mac"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178266}"
+msgid "Xamarin.Essentials"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178280}"
+msgid "Frontend web developer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178281}"
+msgid "Backend web developer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178282}"
+msgid "Full stack web developer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178283}"
+msgid "Desktop developer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178284}"
+msgid "Embedded systems developer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178285}"
+msgid "Full stack developer"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178287, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178315}"
+msgid "Visual Studio 2017"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178316}"
+msgid "Visual Studio for Mac"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178317}"
+msgid "Visual Studio 2019"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178318}"
+msgid "Visual Studio 2019 for Mac"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178319}"
+msgid "Visual Studio Code"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178320}"
+msgid "JetBrains Rider"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178322, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178332}"
+msgid "Older than 4.0"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178333}"
+msgid "4.0"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178334}"
+msgid "4.1"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178335}"
+msgid "4.2"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178336}"
+msgid "4.3"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178337}"
+msgid "4.4"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178338}"
+msgid "4.5"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178339}"
+msgid "4.6"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178340}"
+msgid "4.7"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178341}"
+msgid "4.8"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086918770}"
+msgid "5.0"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178342}"
+msgid "Nightly \"build\""
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178345}"
+msgid "It's my full-time job"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178346}"
+msgid "It's my part-time job"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178347}"
+msgid "It's my freelance work"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178348}"
+msgid "It's part of my educational activities"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178349}"
+msgid "It's my hobby"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178351, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178354}"
+msgid "Business-to-Business (B2B)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178355}"
+msgid "Business-to-Consumer (B2C)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178356}"
+msgid "Business-to-Enterprise (B2E)"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178358, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222729}"
+msgid "N/A (Not Used)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222730}"
+msgid "Never"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222731}"
+msgid "Not often"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222732}"
+msgid "Somewhat often"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222733}"
+msgid "Very often"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222735}"
+msgid "Neither often nor frequently"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222737}"
+msgid "App takes a long time to start"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222741}"
+msgid "App is slow"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222743}"
+msgid "App doesn't feel native"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178212}"
+msgid "Android"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178213}"
+msgid "iOS"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178214}"
+msgid "Linux"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178215}"
+msgid "macOS"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178228}"
+msgid "Tizen"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086921482}"
+msgid "Web"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178216}"
+msgid "Windows UWP"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178217}"
+msgid "Windows WPF"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178219, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178301}"
+msgid "Please enter a whole number between {0} and {1}."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178305}"
+msgid "0"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178306}"
+msgid "100"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178225}"
+msgid "Only PDF, DOC, DOCX, PNG, JPG, JPEG, GIF files are supported."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947848}"
+msgid "ActivityIndicator"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947849}"
+msgid "BoxView"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947850}"
+msgid "Button"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947851}"
+msgid "CarouselView"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947852}"
+msgid "CheckBox"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947853}"
+msgid "CollectionView"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947854}"
+msgid "Editor"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947855}"
+msgid "Entry"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947856}"
+msgid "Image"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947857}"
+msgid "ImageButton"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947858}"
+msgid "IndicatorView"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947859}"
+msgid "Label"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947860}"
+msgid "ListView"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947861}"
+msgid "Map"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947862}"
+msgid "Picker - DatePicker - TimerPicker"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947863}"
+msgid "ProgressBar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947864}"
+msgid "RadioButton"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947865}"
+msgid "RefreshView"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947866}"
+msgid "SearchBar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947867}"
+msgid "Shell"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947868}"
+msgid "Slider"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947869}"
+msgid "Stepper"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947870}"
+msgid "SwipeView"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947871}"
+msgid "Switch"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947872}"
+msgid "TableView"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947873}"
+msgid "WebView"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4086947874, \"checksum\": "
+"1789257859}"
+msgid "None of the above"
+msgstr "해당 사항 없음"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178308}"
+msgid "Exactly the same design on all platforms"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178309}"
+msgid "Mostly the same design on all platforms"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178310}"
+msgid "Mostly unique design favoring each platform"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4051178312, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690800}"
+msgid "Navigation Bar (AppBar)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690801}"
+msgid "Bottom Tab Bar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690802}"
+msgid "Top Tab Bar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690803}"
+msgid "Button"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690804}"
+msgid "Entry"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690805}"
+msgid "Label"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690806}"
+msgid "Picker"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690807}"
+msgid "Popup (alert dialog)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690808}"
+msgid "Checkbox"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690809}"
+msgid "RadioButton"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690810}"
+msgid "SearchBar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088699537}"
+msgid "ProgressBar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088699538}"
+msgid "ActivityIndicator"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088699539}"
+msgid "Slider"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088699540}"
+msgid "Switch"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690811}"
+msgid "Exactly the same"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690812}"
+msgid "Like the platform (with my styling)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690816}"
+msgid "N/A"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260091}"
+msgid "Extremely dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260092}"
+msgid "Dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260093}"
+msgid "Neither satisfied nor dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260094}"
+msgid "Satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260095}"
+msgid "Extremely satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260096}"
+msgid "N/A"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088264275}"
+msgid "Voice and Talkback"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260097}"
+msgid "Overall"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260098}"
+msgid "TabIndex and TabStop"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260099}"
+msgid "Keyboard navigation"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260100}"
+msgid "Dynamic text sizing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260101}"
+msgid "Layout"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088266224}"
+msgid "Appium"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088266225}"
+msgid "Application Inspector (iOS)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088266226}"
+msgid "Application Insights (Microsoft Android, UWP)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088266227}"
+msgid "Android Studio"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4088266229, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044457}"
+msgid "Linux"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044458}"
+msgid "Web Browser"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044459}"
+msgid "Television"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044460}"
+msgid "Watch"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044461}"
+msgid "Auto"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4088044463, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271920}"
+msgid "Extremely dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271921}"
+msgid "Dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271922}"
+msgid "Neither satisfied nor dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271923}"
+msgid "Satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271924}"
+msgid "Extremely satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271925}"
+msgid "N/A"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271927}"
+msgid "Overall"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277108}"
+msgid "Navigation and routing"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277109}"
+msgid "Performance"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277110}"
+msgid "Using with Hot Reload"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277111}"
+msgid "Deep Linking"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271926}"
+msgid "Organization of content"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271928}"
+msgid "Styling"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271929}"
+msgid "Templating"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271930}"
+msgid "Flyout"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271931}"
+msgid "Tabs"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097389116}"
+msgid "Application performance"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097391856}"
+msgid "SearchHandler"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287212}"
+msgid "Flyout"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287213}"
+msgid "Bottom tabs"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287214}"
+msgid "Top tabs"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287215}"
+msgid "Hierarchical (list -&gt; detail)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287216}"
+msgid "Onboarding"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287217}"
+msgid "Login"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287218}"
+msgid "Floating Action Button"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287219}"
+msgid "Popup"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287220}"
+msgid "Popover"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287221}"
+msgid "Toast"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287222}"
+msgid "Snackbar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287223}"
+msgid "Bottom Drawer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287224}"
+msgid "Hero Transition"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377436}"
+msgid "URI querystring"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377437}"
+msgid "Json serialization"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377438}"
+msgid "Service Class"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377439}"
+msgid "IQueryAttributable"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377440}"
+msgid "I didn't know this was possible in Shell"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_option_text\", \"id\": 4097377442, \"checksum\": "
+"2128940435}"
+msgid "Please enter a comment."
+msgstr "의견을 입력하십시오."
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097403436}"
+msgid "Yes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097403437}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097403438}"
+msgid "Tried and gave up"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4051178183, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178197}"
+msgid "Additional Comments"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178237}"
+msgid "Why?"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4051178244, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4051178286, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4051178321, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4051178350, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4051178357, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4051178218, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 4086947875}"
+msgid "Why? (please comment)"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4051178311, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4088266228, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4088044462, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt ""
+"{\"cxt\": \"question_other\", \"id\": 4097377441, \"checksum\": "
+"1338540889}"
+msgid "Other (please specify)"
+msgstr "기타(구체적으로 명시)"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 4097403439}"
+msgid "Why did you need a Shell renderer?"
+msgstr ""
+
+msgctxt ""
+"{\"cxt\": \"question_required\", \"id\": 4051178209, \"checksum\": "
+"129587804}"
+msgid "This question requires an answer."
+msgstr "이 질문은 답변이 필요합니다."
+
+msgctxt ""
+"{\"cxt\": \"question_required\", \"id\": 4051178191, \"checksum\": "
+"129587804}"
+msgid "This question requires an answer."
+msgstr "이 질문은 답변이 필요합니다."
+
+msgctxt ""
+"{\"cxt\": \"question_required\", \"id\": 4051178198, \"checksum\": "
+"129587804}"
+msgid "This question requires an answer."
+msgstr "이 질문은 답변이 필요합니다."
+
+msgctxt ""
+"{\"cxt\": \"question_required\", \"id\": 4051178251, \"checksum\": "
+"129587804}"
+msgid "This question requires an answer."
+msgstr "이 질문은 답변이 필요합니다."
+
+msgctxt ""
+"{\"cxt\": \"question_required\", \"id\": 4051178245, \"checksum\": "
+"129587804}"
+msgid "This question requires an answer."
+msgstr "이 질문은 답변이 필요합니다."
+
+msgctxt ""
+"{\"cxt\": \"question_required\", \"id\": 4051178254, \"checksum\": "
+"129587804}"
+msgid "This question requires an answer."
+msgstr "이 질문은 답변이 필요합니다."
+
+msgctxt ""
+"{\"cxt\": \"question_required\", \"id\": 4051178294, \"checksum\": "
+"129587804}"
+msgid "This question requires an answer."
+msgstr "이 질문은 답변이 필요합니다."
+
+msgctxt ""
+"{\"cxt\": \"question_required\", \"id\": 4051178329, \"checksum\": "
+"129587804}"
+msgid "This question requires an answer."
+msgstr "이 질문은 답변이 필요합니다."
+
+msgctxt ""
+"{\"cxt\": \"question_required\", \"id\": 4051178229, \"checksum\": "
+"129587804}"
+msgid "This question requires an answer."
+msgstr "이 질문은 답변이 필요합니다."
+
