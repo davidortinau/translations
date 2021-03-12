@@ -1227,7 +1227,7 @@ msgstr "Comentários Adicionais"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178237}"
 msgid "Why?"
-msgstr "Porque?"
+msgstr "Por que?"
 
 msgctxt ""
 "{\"cxt\": \"question_other\", \"id\": 4051178244, \"checksum\": 1645218974}"
