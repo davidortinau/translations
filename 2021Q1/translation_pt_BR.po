@@ -122,7 +122,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107403}"
 msgid "What is your primary IDE/editor for Xamarin development?"
-msgstr "Qual é o seu IDE/Editor principal para o desenvolvimento Xamarin?"
+msgstr "Qual é a sua IDE/Editor principal para o desenvolvimento Xamarin?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107404}"
 msgid ""
