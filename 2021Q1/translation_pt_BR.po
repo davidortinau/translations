@@ -622,7 +622,7 @@ msgstr "5.0"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178342}"
 msgid "Nightly \"build\""
-msgstr "Build Noturno"
+msgstr "<i>Nightly \"build\</i>""
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178345}"
 msgid "It's my full-time job"
