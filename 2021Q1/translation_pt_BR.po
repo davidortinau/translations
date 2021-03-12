@@ -656,7 +656,7 @@ msgstr "<i>Business-to-Business</i> (B2B)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178355}"
 msgid "Business-to-Consumer (B2C)"
-msgstr "Business-to-Consumer (B2C)"
+msgstr "<i>Business-to-Consumer</i> (B2C)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178356}"
 msgid "Business-to-Enterprise (B2E)"
