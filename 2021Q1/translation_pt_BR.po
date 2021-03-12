@@ -1261,7 +1261,7 @@ msgstr "Outro (especifique)"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4086947875}"
 msgid "Why? (please comment)"
-msgstr "Porque? (por favor comente)"
+msgstr "Por que? (por favor comente)"
 
 msgctxt ""
 "{\"cxt\": \"question_other\", \"id\": 4051178311, \"checksum\": 1645218974}"
