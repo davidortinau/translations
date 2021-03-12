@@ -239,7 +239,7 @@ msgid ""
 "What controls do you have custom renderers for in your current Xamarin.Forms "
 "applications?"
 msgstr ""
-"Para quais controles você possui renderers personalizados em seus aplicativos "
+"Para quais controles você possui <i>renderers</i> personalizados em seus aplicativos "
 "Xamarin.Forms atuais?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107416}"
