@@ -309,7 +309,7 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 623517951}"
 msgid ""
 "What method(s) do you use to&nbsp;pass data while navigating from page to page?"
 msgstr ""
-"Que método(s) você usa para &nbsp; passar dados ao navegar de uma página para "
+"Qual(is) método(s) você usa para &nbsp; passar dados ao navegar de uma página para "
 "outra?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 623522040}"
