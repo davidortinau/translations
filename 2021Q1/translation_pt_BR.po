@@ -526,7 +526,7 @@ msgstr "Pessoa desenvolvedora Backend"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178282}"
 msgid "Full stack web developer"
-msgstr "Desenvolvedor Full Stack Web"
+msgstr "Pessoa desenvolvedora Full Stack Web"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178283}"
 msgid "Desktop developer"
