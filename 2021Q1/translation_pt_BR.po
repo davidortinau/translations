@@ -530,7 +530,7 @@ msgstr "Pessoa desenvolvedora Full Stack Web"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178283}"
 msgid "Desktop developer"
-msgstr "Desenvolvedor Desktop"
+msgstr "Pessoa desenvolvedora Desktop"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178284}"
 msgid "Embedded systems developer"
