@@ -878,7 +878,7 @@ msgstr "Na maioria das vezes, o mesmo design em todas as plataformas"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178310}"
 msgid "Mostly unique design favoring each platform"
-msgstr "Principalmente design exclusivo que favorece cada plataforma"
+msgstr "Na maioria das vezes, design exclusivo que favorece cada plataforma"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178312, \"checksum\": "
