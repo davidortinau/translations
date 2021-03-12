@@ -314,7 +314,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 623522040}"
 msgid "Have you used a custom Shell renderer?"
-msgstr "Você já usou um custom Shell Renderer?"
+msgstr "Você já usou um <i>custom Shell Renderer</i>?"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178171, \"checksum\": "
