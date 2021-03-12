@@ -518,7 +518,7 @@ msgstr "Xamarin.Essentials"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178280}"
 msgid "Frontend web developer"
-msgstr "Desenvolvedor Frontend"
+msgstr "Pessoa desenvolvedora Frontend"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178281}"
 msgid "Backend web developer"
