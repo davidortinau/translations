@@ -984,7 +984,7 @@ msgstr "N/A"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088264275}"
 msgid "Voice and Talkback"
-msgstr "Voice e Talkback"
+msgstr "Voz e <i>Talkback</i>"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260097}"
 msgid "Overall"
