@@ -245,7 +245,7 @@ msgstr ""
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107416}"
 msgid "What is the design goal of your latest Xamarin.Forms application?"
 msgstr ""
-"Qual é o objetivo de design de seu aplicativo Xamarin.Forms mais recente?"
+"Qual é o objetivo do design de seu aplicativo Xamarin.Forms mais recente?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622151063}"
 msgid "I want these to look and behave _______ across platforms."
