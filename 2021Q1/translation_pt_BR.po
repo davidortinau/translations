@@ -538,7 +538,7 @@ msgstr "Pessoa desenvolvedora de Sistemas Embarcados"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178285}"
 msgid "Full stack developer"
-msgstr "Desenvolvedor Full Stack"
+msgstr "Pessoa desenvolvedora Full Stack"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178287, \"checksum\": "
