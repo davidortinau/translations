@@ -46,7 +46,7 @@ msgstr "Geral"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 158260156}"
 msgid "UI Customizations"
-msgstr "Personalizações de interface do usuário"
+msgstr "Personalizações de interface de usuário (UI)"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 158262025}"
 msgid "Accessibility"
