@@ -118,7 +118,7 @@ msgstr "O que mais aumentaria sua satisfação com o Xamarin.Forms?"
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107402}"
 msgid "Would you be willing to follow up with our team? (Optional)"
 msgstr ""
-"Você estaria disposto a fazer o acompanhamento com nossa equipe? (Opcional)"
+"Você estaria disposto a falar com nosso time, se necessário? (Opcional)"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107403}"
 msgid "What is your primary IDE/editor for Xamarin development?"
