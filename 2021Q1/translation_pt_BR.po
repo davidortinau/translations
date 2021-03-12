@@ -157,7 +157,7 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107417}"
 msgid "If I could use any editor to develop Xamarin.Forms apps, I would prefer:"
 msgstr ""
 "Se eu pudesse usar qualquer editor para desenvolver aplicativos Xamarin.Forms, "
-"eu preferiria:"
+"eu optaria por:"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107418}"
 msgid "What version(s) of Xamarin.Forms are you currently using?"
