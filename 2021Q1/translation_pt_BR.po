@@ -996,7 +996,7 @@ msgstr "TabIndex e TabStop"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260099}"
 msgid "Keyboard navigation"
-msgstr "Navegação com teclado"
+msgstr "Navegação com o teclado"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260100}"
 msgid "Dynamic text sizing"
