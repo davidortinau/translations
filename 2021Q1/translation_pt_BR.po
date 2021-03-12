@@ -108,7 +108,7 @@ msgid ""
 "<div><strong>Thank you</strong> again for taking time to help us improve "
 "Xamarin. </div>"
 msgstr ""
-"<div><strong>Obrigado</strong> novamente por nos ajudar a melhorar o Xamarin. "
+"<div><strong>Obrigado</strong> por nos ajudar a melhorar o Xamarin. "
 "</div>"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107401}"
