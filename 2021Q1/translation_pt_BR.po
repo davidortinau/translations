@@ -690,7 +690,7 @@ msgstr "Muitas vezes"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222735}"
 msgid "Neither often nor frequently"
-msgstr "Nem frequentemente nem frequentemente"
+msgstr "Nem muitas vezes nem frequentemente"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222737}"
 msgid "App takes a long time to start"
