@@ -652,7 +652,7 @@ msgstr "Insira um comentário."
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178354}"
 msgid "Business-to-Business (B2B)"
-msgstr "Business-to-Business (B2B)"
+msgstr "<i>Business-to-Business</i> (B2B)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178355}"
 msgid "Business-to-Consumer (B2C)"
