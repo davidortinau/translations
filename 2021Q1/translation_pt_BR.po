@@ -193,7 +193,7 @@ msgstr ""
 "pesquisa, você concorda que podemos usar, divulgar, reproduzir ou de outra "
 "forma distribuir seu <i>feedback</i>. Suas informações pessoais permanecerão "
 "confidenciais. Verifique as políticas de privacidade da Microsoft para obter mais "
-"informações. <br> <br> Link de privacidade: <a href=“http://go.microsoft.com/"
+"informações. <br> <br> Link para as políticas de privacidade: <a href=“http://go.microsoft.com/"
 "fwlink/?LinkId=521839” rel=“nofollow” target=“_blank”> http://go.microsoft.com/"
 "fwlink/?LinkId=521839 </a>"
 
