@@ -34,7 +34,7 @@ msgstr "बाहर निकलें"
 
 msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 302005560}"
 msgid "Xamarin.Forms - Q1 2021"
-msgstr ""
+msgstr "जैमरिन फॉर्म - प्रथम त्रिमास २०२१"
 
 msgctxt "{\"cxt\": \"survey_ok\", \"id\": 302005560, \"checksum\": 4263310278}"
 msgid "OK"
@@ -42,23 +42,23 @@ msgstr "ठीक है"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 156910419}"
 msgid "General"
-msgstr ""
+msgstr "सामान्य"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 158260156}"
 msgid "UI Customizations"
-msgstr ""
+msgstr "उपयोगकर्ता अंतराफलक अनुकूलन"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 158262025}"
 msgid "Accessibility"
-msgstr ""
+msgstr "सरल उपयोग"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 158270616}"
 msgid "Shell"
-msgstr ""
+msgstr "शेल"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 158262052}"
 msgid "Future Platforms"
-msgstr ""
+msgstr "आगामी प्लेटफ़ार्म"
 
 msgctxt "{\"cxt\": \"page_subheading\", \"id\": 156910419}"
 msgid ""
@@ -1055,91 +1055,91 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271930}"
 msgid "Flyout"
-msgstr ""
+msgstr "बहार उड़"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271931}"
 msgid "Tabs"
-msgstr ""
+msgstr "टैब"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097389116}"
 msgid "Application performance"
-msgstr ""
+msgstr "ऐप्लीकेशन प्रदर्शन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097391856}"
 msgid "SearchHandler"
-msgstr ""
+msgstr "खोजसंचालक (SearchHandler)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287212}"
 msgid "Flyout"
-msgstr ""
+msgstr "बहार उड़"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287213}"
 msgid "Bottom tabs"
-msgstr ""
+msgstr "नीची टैब"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287214}"
 msgid "Top tabs"
-msgstr ""
+msgstr "ऊपर टैब"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287215}"
 msgid "Hierarchical (list -&gt; detail)"
-msgstr ""
+msgstr "श्रेणीबद्ध सूची विस्तार Hierarchical (list -&gt; detail)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287216}"
 msgid "Onboarding"
-msgstr ""
+msgstr "ज्ञानप्राप्ति"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287217}"
 msgid "Login"
-msgstr ""
+msgstr "लॉग इन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287218}"
 msgid "Floating Action Button"
-msgstr ""
+msgstr "चल कार्य बटन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287219}"
 msgid "Popup"
-msgstr ""
+msgstr "पॉप अप"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287220}"
 msgid "Popover"
-msgstr ""
+msgstr "जल्दी सेना (Popover)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287221}"
 msgid "Toast"
-msgstr ""
+msgstr "टोस्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287222}"
 msgid "Snackbar"
-msgstr ""
+msgstr "स्नैक बार"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287223}"
 msgid "Bottom Drawer"
-msgstr ""
+msgstr "तल दराज"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287224}"
 msgid "Hero Transition"
-msgstr ""
+msgstr "नायक परिवर्तन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377436}"
 msgid "URI querystring"
-msgstr ""
+msgstr "युआरआई प्रश्नतार (URI querystring)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377437}"
 msgid "Json serialization"
-msgstr ""
+msgstr "जेसन क्रमबद्धता (Json serialization)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377438}"
 msgid "Service Class"
-msgstr ""
+msgstr "सेवा वर्ग (Service Class)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377439}"
 msgid "IQueryAttributable"
-msgstr ""
+msgstr "आइक्वेरीएट्रिब्यूटएबल (IQueryAttributable)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097377440}"
 msgid "I didn't know this was possible in Shell"
-msgstr ""
+msgstr "मुझे नहीं पता था की शेल में ये संभव है "
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4097377442, \"checksum\": "
@@ -1149,15 +1149,15 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097403436}"
 msgid "Yes"
-msgstr ""
+msgstr "हाँ"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097403437}"
 msgid "No"
-msgstr ""
+msgstr "नहीं"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4097403438}"
 msgid "Tried and gave up"
-msgstr ""
+msgstr "कोशिश करके करके छोड़ दिया"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178183, \"checksum\": 286407831}"
 msgid "Other (please specify)"
@@ -1165,11 +1165,11 @@ msgstr "अन्य(कृपया स्पष्ट करें)"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178197}"
 msgid "Additional Comments"
-msgstr ""
+msgstr "अतिरिक्त टिप्पणी"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178237}"
 msgid "Why?"
-msgstr ""
+msgstr "क्यों?"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178244, \"checksum\": 286407831}"
 msgid "Other (please specify)"
@@ -1197,7 +1197,7 @@ msgstr "अन्य(कृपया स्पष्ट करें)"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4086947875}"
 msgid "Why? (please comment)"
-msgstr ""
+msgstr "क्यों ? (कृपया टिपण्णी दें)"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4051178311, \"checksum\": 286407831}"
 msgid "Other (please specify)"
@@ -1217,7 +1217,7 @@ msgstr "अन्य(कृपया स्पष्ट करें)"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4097403439}"
 msgid "Why did you need a Shell renderer?"
-msgstr ""
+msgstr "आपको शेल प्रस्तुतकर्ता की आवश्यकता क्यों है"
 
 msgctxt ""
 "{\"cxt\": \"question_required\", \"id\": 4051178209, \"checksum\": "
