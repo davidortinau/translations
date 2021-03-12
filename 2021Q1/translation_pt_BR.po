@@ -272,7 +272,7 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 622046481}"
 msgid ""
 "I have an existing mobile or desktop application that also needs to run on:"
 msgstr ""
-"Tenho um aplicativo móvel ou desktop existente que também precisa ser "
+"Tenho um aplicativo móvel ou <i>desktop</i> existente que também precisa ser "
 "executado em:"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622047004}"
