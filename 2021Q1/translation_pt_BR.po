@@ -660,7 +660,7 @@ msgstr "<i>Business-to-Consumer</i> (B2C)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178356}"
 msgid "Business-to-Enterprise (B2E)"
-msgstr "Business-to-Enterprise (B2E)"
+msgstr "<i>Business-to-Enterprise</i> (B2E)"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178358, \"checksum\": "
