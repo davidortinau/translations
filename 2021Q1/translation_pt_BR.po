@@ -1140,7 +1140,7 @@ msgstr "Top tabs"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287215}"
 msgid "Hierarchical (list -&gt; detail)"
-msgstr "Hierarchical (lista -&gt; detalhe)"
+msgstr "Hierárquico (lista -&gt; detalhe)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088287216}"
 msgid "Onboarding"
