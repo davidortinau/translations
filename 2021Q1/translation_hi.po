@@ -213,79 +213,84 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107414}"
 msgid "Anything else you would like us to know about your Xamarin experience?"
-msgstr ""
+msgstr "आप अपने जैमरीन के अनुभव के बारे में आप हमें  कुछ और बताना चाहेंगे ? "
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107405}"
 msgid ""
 "Tell us a little bit about the current or last mobile application you "
 "work on. (optional)"
 msgstr ""
+"आप अभी जिस मोबाइल ऐप पर काम कर रहे हैं या इससे पहले जिसपे काम किया "
+"था उसके बारे में कुछ बताएं (ऐच्छिक)"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 621871707}"
 msgid ""
 "What controls do you have custom renderers for in your current "
 "Xamarin.Forms applications?"
-msgstr ""
+msgstr "आपके वर्तमान जैमरीन फॉर्म ऐप में किन कंट्रोल्स के लिए कस्टम रेंडर लिख रहे हैं "
+
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107416}"
 msgid "What is the design goal of your latest Xamarin.Forms application?"
-msgstr ""
+msgstr "आपके नवीनतम जैमरीन फॉर्म ऐप के डिजाइन लक्ष्य क्या हैं ?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622151063}"
 msgid "I want these to look and behave _______ across platforms."
-msgstr ""
+msgstr "मैं इनको _______ हर प्लेटफार्म पे एक रूप और स्वभाव में देखना चाहता हूँ "
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622082220}"
 msgid ""
 "How satisfied or dissatisfied are you making your Xamarin.Forms apps "
 "accessible?"
-msgstr ""
+msgstr "आप अपने जैमरीन फॉर्म ऐप को सबके लिए सुलभ बनाने से कितने संतुष्ट/असंतुष्ट हैं ?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622083252}"
 msgid "What tools do you use for testing accessibility?"
-msgstr ""
+msgstr "सुलभता के परिक्षण के लिए आप कौन से उपकरण इस्तेमाल करतें हैं "
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622083723}"
 msgid "What would you most like to be improved for making your apps accessible?"
-msgstr ""
+msgstr "आप अपने एप्लीकेशन को और ज्यादा सुलभ बनाने के लिए क्या संशोधन करना चाहेंगे "
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622046481}"
 msgid ""
 "I have an existing mobile or desktop application that also needs to run "
 "on:"
-msgstr ""
+msgstr "मेरे पास कुछ डेस्कटॉप और मोबाइल एप्लीकेशन बने पड़े हैं जिनको की मैं _______ पर भी चलाना चाहूंगा "
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622047004}"
 msgid ""
 "What is your motivation for wanting those platforms to be supported in "
 ".NET MAUI?"
-msgstr ""
+msgstr "डॉट नेट मावि (MAUI) में उन प्लेटफार्म का समर्थन किया जाने के पीछे आपकी क्या  प्रेरणा है ?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622047684}"
 msgid "Please describe your application that is important on these platform(s)."
-msgstr ""
+msgstr "कृपया अपनी उस एप्लीकेशन का वर्णन करें जो की इन प्लेटफार्म पर महत्वपूर्ण हैं | "
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622084139}"
 msgid ""
 "How satisfied or dissatisfied are you&nbsp;using Shell in your "
 "Xamarin.Forms applications?"
-msgstr ""
+msgstr "आप अपने जैमरीन फॉर्म एप्लीकेशन में शेल के इस्तेमाल से कितने संतुष्ट/असंतुष्ट हैं ?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622086492}"
 msgid ""
 "Which UI design elements does your current or last application include? "
 "(select all that apply)"
 msgstr ""
+"आपके वर्तमान या पिछले एप्लीकेशन में कौन से यूआई डिजाइन तत्व मौजूद है"
+"(लागू होने वाले सभी का चयन करें)"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 623517951}"
 msgid ""
 "What method(s) do you use to&nbsp;pass data while navigating from page to"
 " page?"
-msgstr ""
+msgstr "एक पन्ने से दूसरे पन्ने पर पथ प्रदर्शन करते हुवे डेटा भेजने के लिए आप क्या तरीका इस्तेमाल करते हैं ?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 623522040}"
 msgid "Have you used a custom Shell renderer?"
-msgstr ""
+msgstr "क्या आपने कस्टम शेल रेंडरर का प्रयोग किया है ?"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178171, \"checksum\": "
@@ -349,27 +354,27 @@ msgstr "फोन नं"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178181}"
 msgid "Visual Studio 2017"
-msgstr ""
+msgstr "विसुअल स्टूडियो २०१७"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178182}"
 msgid "Visual Studio for Mac"
-msgstr ""
+msgstr "मैक का विसुअल स्टूडियो "
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178207}"
 msgid "Visual Studio 2019"
-msgstr ""
+msgstr "विसुअल स्टूडियो २०१९"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178208}"
 msgid "Visual Studio 2019 for Mac"
-msgstr ""
+msgstr "मैक का विसुअल स्टूडियो २०१९"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178222}"
 msgid "Visual Studio Code"
-msgstr ""
+msgstr "विसुअल स्टूडियो कोड"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178223}"
 msgid "JetBrains Rider"
-msgstr ""
+msgstr "जेटब्रेन राइडर"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178184, \"checksum\": "
@@ -379,63 +384,63 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178193}"
 msgid "I'm currently a student"
-msgstr ""
+msgstr "मैं एक छात्र हूँ "
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178194}"
 msgid "0-3 years"
-msgstr ""
+msgstr "०-३ साल"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178195}"
 msgid "3-5 years"
-msgstr ""
+msgstr "३-५ साल"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178196}"
 msgid "5-10 years"
-msgstr ""
+msgstr "५-१० साल"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178344}"
 msgid "Over 10 years"
-msgstr ""
+msgstr "१० साल से ज्यादा"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178232}"
 msgid "Very Unlikely"
-msgstr ""
+msgstr "बहुत संभावना नहीं"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178233}"
 msgid "Unlikely"
-msgstr ""
+msgstr "संभावना नहीं"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178234}"
 msgid "Neither likely nor unlikely"
-msgstr ""
+msgstr "न उपयुक्त न संभव"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178235}"
 msgid "Likely"
-msgstr ""
+msgstr "उपयुक्त"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178236}"
 msgid "Very likely"
-msgstr ""
+msgstr "बहुत उपयुक्त"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178240}"
 msgid "Apple App Store"
-msgstr ""
+msgstr "एप्पल ऐप स्टोर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178241}"
 msgid "Google Play Store"
-msgstr ""
+msgstr "गूगल प्ले स्टोर "
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178242}"
 msgid "Internal Store"
-msgstr ""
+msgstr "आंतरिक स्टोर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178243}"
 msgid "Ad Hoc"
-msgstr ""
+msgstr "ऐडहाक"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178250}"
 msgid "Windows Store"
-msgstr ""
+msgstr "विंडोज स्टोर"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178247, \"checksum\": "
@@ -445,71 +450,71 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178256}"
 msgid "Extremely dissatisfied"
-msgstr ""
+msgstr "अत्यंत असंतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178257}"
 msgid "Dissatisfied"
-msgstr ""
+msgstr "असंतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178258}"
 msgid "Neither satisfied nor dissatisfied"
-msgstr ""
+msgstr "न संतुष्ट न असंतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178259}"
 msgid "Satisfied"
-msgstr ""
+msgstr "संतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178260}"
 msgid "Extremely satisfied"
-msgstr ""
+msgstr "अत्यंत संतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178261}"
 msgid "N/A"
-msgstr ""
+msgstr "एन/ए"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178262}"
 msgid "Xamarin.Forms"
-msgstr ""
+msgstr "जैमरीन.फॉर्म"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178263}"
 msgid "Xamarin.iOS"
-msgstr ""
+msgstr "जैमरीन.आइओस"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178264}"
 msgid "Xamarin.Android"
-msgstr ""
+msgstr "जैमरीन.एंड्रॉयड"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178265}"
 msgid "Xamarin.Mac"
-msgstr ""
+msgstr "जैमरीन.मैक"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178266}"
 msgid "Xamarin.Essentials"
-msgstr ""
+msgstr "जैमरीन.एसेंशियल"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178280}"
 msgid "Frontend web developer"
-msgstr ""
+msgstr "फ्रॉंटेंड वेब डेवलपर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178281}"
 msgid "Backend web developer"
-msgstr ""
+msgstr "बैकेंड वेब डेवलपर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178282}"
 msgid "Full stack web developer"
-msgstr ""
+msgstr "फुल-स्टैक वेब डेवलपर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178283}"
 msgid "Desktop developer"
-msgstr ""
+msgstr "डेस्कटॉप डेवलपर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178284}"
 msgid "Embedded systems developer"
-msgstr ""
+msgstr "एम्बेडेड सिस्टम डेवलपर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178285}"
 msgid "Full stack developer"
-msgstr ""
+msgstr "फुल-स्टैक डेवलपर"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178287, \"checksum\": "
@@ -519,27 +524,27 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178315}"
 msgid "Visual Studio 2017"
-msgstr ""
+msgstr "विसुअल स्टूडियो २०१७"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178316}"
 msgid "Visual Studio for Mac"
-msgstr ""
+msgstr "मैक का विसुअल स्टूडियो"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178317}"
 msgid "Visual Studio 2019"
-msgstr ""
+msgstr "विसुअल स्टूडियो २०१९"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178318}"
 msgid "Visual Studio 2019 for Mac"
-msgstr ""
+msgstr "मैक का विसुअल स्टूडियो २०१९"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178319}"
 msgid "Visual Studio Code"
-msgstr ""
+msgstr "विसुअल स्टूडियो कोड"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178320}"
 msgid "JetBrains Rider"
-msgstr ""
+msgstr "जेटब्रेन राइडर"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178322, \"checksum\": "
@@ -549,71 +554,71 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178332}"
 msgid "Older than 4.0"
-msgstr ""
+msgstr "४.० से पुराना"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178333}"
 msgid "4.0"
-msgstr ""
+msgstr "४.०"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178334}"
 msgid "4.1"
-msgstr ""
+msgstr "४.१"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178335}"
 msgid "4.2"
-msgstr ""
+msgstr "४.२"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178336}"
 msgid "4.3"
-msgstr ""
+msgstr "४.३"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178337}"
 msgid "4.4"
-msgstr ""
+msgstr "४.४"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178338}"
 msgid "4.5"
-msgstr ""
+msgstr "४.५"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178339}"
 msgid "4.6"
-msgstr ""
+msgstr "४.६"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178340}"
 msgid "4.7"
-msgstr ""
+msgstr "४.७"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178341}"
 msgid "4.8"
-msgstr ""
+msgstr "४.९"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086918770}"
 msgid "5.0"
-msgstr ""
+msgstr "५.०"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178342}"
 msgid "Nightly \"build\""
-msgstr ""
+msgstr "हर रात को होने वाला बिल्ड"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178345}"
 msgid "It's my full-time job"
-msgstr ""
+msgstr "ये मेरा पूर्णकालिक काम है"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178346}"
 msgid "It's my part-time job"
-msgstr ""
+msgstr "ये मेरा अंशकालिक काम है "
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178347}"
 msgid "It's my freelance work"
-msgstr ""
+msgstr "ये मेरा स्वच्छंद काम है"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178348}"
 msgid "It's part of my educational activities"
-msgstr ""
+msgstr "ये मेरे शैक्षणिक गतिविधियों का हिस्सा है"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178349}"
 msgid "It's my hobby"
-msgstr ""
+msgstr "ये मेरा शौक है "
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178351, \"checksum\": "
@@ -623,15 +628,15 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178354}"
 msgid "Business-to-Business (B2B)"
-msgstr ""
+msgstr "व्यापार से व्यापार (B2B)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178355}"
 msgid "Business-to-Consumer (B2C)"
-msgstr ""
+msgstr "व्यापार से ग्राहक (B2C)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178356}"
 msgid "Business-to-Enterprise (B2E)"
-msgstr ""
+msgstr "व्यापार से बड़े उपक्रम (B2E)"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178358, \"checksum\": "
@@ -641,71 +646,71 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222729}"
 msgid "N/A (Not Used)"
-msgstr ""
+msgstr "एन / ए (प्रयोग नहीं किया गया)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222730}"
 msgid "Never"
-msgstr ""
+msgstr "कभी नहीं"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222731}"
 msgid "Not often"
-msgstr ""
+msgstr "प्रायः नहीं"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222732}"
 msgid "Somewhat often"
-msgstr ""
+msgstr "कुछ हद तक अक्सर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222733}"
 msgid "Very often"
-msgstr ""
+msgstr "अक्सर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222735}"
 msgid "Neither often nor frequently"
-msgstr ""
+msgstr "न तो अक्सर और न ही जल्दी"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222737}"
 msgid "App takes a long time to start"
-msgstr ""
+msgstr "ऐप शुरू होने में समय लेता है "
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222741}"
 msgid "App is slow"
-msgstr ""
+msgstr "ऐप धीरे चलता है "
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222743}"
 msgid "App doesn't feel native"
-msgstr ""
+msgstr "ऐप स्वाभाविक मोबाइल ऐप नहीं लगता "
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178212}"
 msgid "Android"
-msgstr ""
+msgstr "एंड्रॉयड"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178213}"
 msgid "iOS"
-msgstr ""
+msgstr "आइओस"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178214}"
 msgid "Linux"
-msgstr ""
+msgstr "लिनक्स"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178215}"
 msgid "macOS"
-msgstr ""
+msgstr "मैकओएस"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178228}"
 msgid "Tizen"
-msgstr ""
+msgstr "टाइज़ेन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086921482}"
 msgid "Web"
-msgstr ""
+msgstr "वेब"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178216}"
 msgid "Windows UWP"
-msgstr ""
+msgstr "विंडोज युडवलूपी"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178217}"
 msgid "Windows WPF"
-msgstr ""
+msgstr "विंडोज डवलूपीएफ़"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178219, \"checksum\": "
@@ -715,123 +720,123 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178301}"
 msgid "Please enter a whole number between {0} and {1}."
-msgstr ""
+msgstr "कृपया {0} और {1} के बीच का एक सम्पूर्ण संख्या लिखें"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178305}"
 msgid "0"
-msgstr ""
+msgstr "०"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178306}"
 msgid "100"
-msgstr ""
+msgstr "१००"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178225}"
 msgid "Only PDF, DOC, DOCX, PNG, JPG, JPEG, GIF files are supported."
-msgstr ""
+msgstr "सिर्फ  PDF, DOC, DOCX, PNG, JPG, JPEG, GIF फाइल डालने का समर्थन है"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947848}"
 msgid "ActivityIndicator"
-msgstr ""
+msgstr "एक्टिविटीइंडिकेटर (ActivityIndicator)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947849}"
 msgid "BoxView"
-msgstr ""
+msgstr "बॉक्सवीव (BoxView)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947850}"
 msgid "Button"
-msgstr ""
+msgstr "बटन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947851}"
 msgid "CarouselView"
-msgstr ""
+msgstr "करोसोलवीव (CarouselView)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947852}"
 msgid "CheckBox"
-msgstr ""
+msgstr "चेकबॉक्स (CheckBox)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947853}"
 msgid "CollectionView"
-msgstr ""
+msgstr "कलेक्शनवीव(CollectionView)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947854}"
 msgid "Editor"
-msgstr ""
+msgstr "एडिटर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947855}"
 msgid "Entry"
-msgstr ""
+msgstr "एंट्री"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947856}"
 msgid "Image"
-msgstr ""
+msgstr "इमेज"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947857}"
 msgid "ImageButton"
-msgstr ""
+msgstr "इमेजबटन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947858}"
 msgid "IndicatorView"
-msgstr ""
+msgstr "इंडिकेटरवीव"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947859}"
 msgid "Label"
-msgstr ""
+msgstr "लेबल"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947860}"
 msgid "ListView"
-msgstr ""
+msgstr "लिस्टव्यू"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947861}"
 msgid "Map"
-msgstr ""
+msgstr "मैप"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947862}"
 msgid "Picker - DatePicker - TimerPicker"
-msgstr ""
+msgstr "पिकर - डेटपिकर - टाइमपीकर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947863}"
 msgid "ProgressBar"
-msgstr ""
+msgstr "प्रोग्रेस्सबार"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947864}"
 msgid "RadioButton"
-msgstr ""
+msgstr "रेडियोबटन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947865}"
 msgid "RefreshView"
-msgstr ""
+msgstr "रिफ्रेशव्यू (RefreshView)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947866}"
 msgid "SearchBar"
-msgstr ""
+msgstr "सर्चबार"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947867}"
 msgid "Shell"
-msgstr ""
+msgstr "शेल"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947868}"
 msgid "Slider"
-msgstr ""
+msgstr "स्लाइडर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947869}"
 msgid "Stepper"
-msgstr ""
+msgstr "स्टेपर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947870}"
 msgid "SwipeView"
-msgstr ""
+msgstr "स्वाइपव्यू (SwipeView)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947871}"
 msgid "Switch"
-msgstr ""
+msgstr "स्विच"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947872}"
 msgid "TableView"
-msgstr ""
+msgstr "टेबलव्यू (TableView)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947873}"
 msgid "WebView"
-msgstr ""
+msgstr "वेबव्यू (WebView)"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4086947874, \"checksum\": "
@@ -841,15 +846,15 @@ msgstr "उपरोक्त में से कोई नहीं"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178308}"
 msgid "Exactly the same design on all platforms"
-msgstr ""
+msgstr "सभी प्लेटफार्म पर बिलकुल एक जैसा बनावट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178309}"
 msgid "Mostly the same design on all platforms"
-msgstr ""
+msgstr "सभी प्लेटफार्म पर ज्यादातर एक जैसा बनावट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178310}"
 msgid "Mostly unique design favoring each platform"
-msgstr ""
+msgstr "ज्यादातर हर प्लेटफार्म के लिए अनोखा बनावट"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178312, \"checksum\": "
@@ -859,139 +864,139 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690800}"
 msgid "Navigation Bar (AppBar)"
-msgstr ""
+msgstr "पथ प्रदर्शन बार (AppBar)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690801}"
 msgid "Bottom Tab Bar"
-msgstr ""
+msgstr "निचला टैब बार"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690802}"
 msgid "Top Tab Bar"
-msgstr ""
+msgstr "टॉप टैब बार"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690803}"
 msgid "Button"
-msgstr ""
+msgstr "बटन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690804}"
 msgid "Entry"
-msgstr ""
+msgstr "एंट्री"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690805}"
 msgid "Label"
-msgstr ""
+msgstr "लेबल"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690806}"
 msgid "Picker"
-msgstr ""
+msgstr "पिकर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690807}"
 msgid "Popup (alert dialog)"
-msgstr ""
+msgstr "पॉपअप एलर्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690808}"
 msgid "Checkbox"
-msgstr ""
+msgstr "चेकबॉक्स"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690809}"
 msgid "RadioButton"
-msgstr ""
+msgstr "रेडियोबटन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690810}"
 msgid "SearchBar"
-msgstr ""
+msgstr "सर्चबार"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088699537}"
 msgid "ProgressBar"
-msgstr ""
+msgstr "प्रोग्रेस्सबार"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088699538}"
 msgid "ActivityIndicator"
-msgstr ""
+msgstr "एक्टिविटीइंडिकेटर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088699539}"
 msgid "Slider"
-msgstr ""
+msgstr "स्लाइडर"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088699540}"
 msgid "Switch"
-msgstr ""
+msgstr "स्विच"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690811}"
 msgid "Exactly the same"
-msgstr ""
+msgstr "बिलकुल एक जैसा"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690812}"
 msgid "Like the platform (with my styling)"
-msgstr ""
+msgstr "प्लेटफार्म के जैसा (मेरी स्टाइल के साथ) "
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088690816}"
 msgid "N/A"
-msgstr ""
+msgstr "एन / ए"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260091}"
 msgid "Extremely dissatisfied"
-msgstr ""
+msgstr "अत्यंत असंतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260092}"
 msgid "Dissatisfied"
-msgstr ""
+msgstr "असंतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260093}"
 msgid "Neither satisfied nor dissatisfied"
-msgstr ""
+msgstr "न संतुष्ट न असंतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260094}"
 msgid "Satisfied"
-msgstr ""
+msgstr "संतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260095}"
 msgid "Extremely satisfied"
-msgstr ""
+msgstr "अत्यंत संतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260096}"
 msgid "N/A"
-msgstr ""
+msgstr "एन/ए"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088264275}"
 msgid "Voice and Talkback"
-msgstr ""
+msgstr "आवाज़ और जवाब देना"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260097}"
 msgid "Overall"
-msgstr ""
+msgstr "संपूर्ण"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260098}"
 msgid "TabIndex and TabStop"
-msgstr ""
+msgstr "टैबइंडेक्स और टैबस्टॉप"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260099}"
 msgid "Keyboard navigation"
-msgstr ""
+msgstr "कीबोर्ड द्वारा पथ प्रदर्शन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260100}"
 msgid "Dynamic text sizing"
-msgstr ""
+msgstr "गतिशील टेक्स्ट आकार (Dynamic text sizing)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088260101}"
 msgid "Layout"
-msgstr ""
+msgstr "लेआउट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088266224}"
 msgid "Appium"
-msgstr ""
+msgstr "ऐपियम"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088266225}"
 msgid "Application Inspector (iOS)"
-msgstr ""
+msgstr "एप्लीकेशन इंस्पेक्टर (आइओस)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088266226}"
 msgid "Application Insights (Microsoft Android, UWP)"
-msgstr ""
+msgstr "एप्लीकेशन इनसाइट्स (माइक्रोसॉफ्ट एंड्रॉयड, युडवलूपी)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088266227}"
 msgid "Android Studio"
-msgstr ""
+msgstr "एंड्रॉयड स्टूडियो "
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4088266229, \"checksum\": "
@@ -1001,23 +1006,23 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044457}"
 msgid "Linux"
-msgstr ""
+msgstr "लिनक्स"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044458}"
 msgid "Web Browser"
-msgstr ""
+msgstr "वेब ब्राउज़र"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044459}"
 msgid "Television"
-msgstr ""
+msgstr "टेलीविज़न"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044460}"
 msgid "Watch"
-msgstr ""
+msgstr "घडी"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044461}"
 msgid "Auto"
-msgstr ""
+msgstr "ऑटो"
 
 msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4088044463, \"checksum\": "
@@ -1027,59 +1032,59 @@ msgstr "कृपया एक टिप्पणी प्रविष्ट �
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271920}"
 msgid "Extremely dissatisfied"
-msgstr ""
+msgstr  "अत्यंत असंतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271921}"
 msgid "Dissatisfied"
-msgstr ""
+msgstr "असंतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271922}"
 msgid "Neither satisfied nor dissatisfied"
-msgstr ""
+msgstr "न संतुष्ट न असंतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271923}"
 msgid "Satisfied"
-msgstr ""
+msgstr "संतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271924}"
 msgid "Extremely satisfied"
-msgstr ""
+msgstr "अत्यंत संतुष्ट"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271925}"
 msgid "N/A"
-msgstr ""
+msgstr "एन/ए"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271927}"
 msgid "Overall"
-msgstr ""
+msgstr "संपूर्ण"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277108}"
 msgid "Navigation and routing"
-msgstr ""
+msgstr "पथ प्रदर्शन और मार्ग (Navigation and routing)"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277109}"
 msgid "Performance"
-msgstr ""
+msgstr "परफॉरमेंस"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277110}"
 msgid "Using with Hot Reload"
-msgstr ""
+msgstr "हॉट रीलोड इस्तेमाल करना"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088277111}"
 msgid "Deep Linking"
-msgstr ""
+msgstr "डीप लिंकिंग"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271926}"
 msgid "Organization of content"
-msgstr ""
+msgstr "सामग्री का संगठन"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271928}"
 msgid "Styling"
-msgstr ""
+msgstr "स्टाइल"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271929}"
 msgid "Templating"
-msgstr ""
+msgstr "टेम्पलेटिंग"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088271930}"
 msgid "Flyout"
