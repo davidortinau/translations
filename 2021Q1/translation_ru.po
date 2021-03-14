@@ -680,7 +680,7 @@ msgstr "Не часто"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222732}"
 msgid "Somewhat often"
-msgstr "Иногда"
+msgstr "Довольно часто"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222733}"
 msgid "Very often"
