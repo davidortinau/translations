@@ -869,7 +869,7 @@ msgstr "Ничего из вышеперечисленного"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178308}"
 msgid "Exactly the same design on all platforms"
-msgstr "Точно такой же дизайн на всех платформах"
+msgstr "Идентичный дизайн на всех платформах"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178309}"
 msgid "Mostly the same design on all platforms"
