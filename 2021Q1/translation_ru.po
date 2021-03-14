@@ -480,7 +480,7 @@ msgstr "Недоволен"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178258}"
 msgid "Neither satisfied nor dissatisfied"
-msgstr "Нейтрально"
+msgstr "Нейтральное мнение"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178259}"
 msgid "Satisfied"
