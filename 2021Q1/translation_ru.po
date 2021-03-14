@@ -576,7 +576,7 @@ msgstr "Оставьте комментарий."
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178332}"
 msgid "Older than 4.0"
-msgstr "Старее чем 4.0"
+msgstr "Старше чем 4.0"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178333}"
 msgid "4.0"
