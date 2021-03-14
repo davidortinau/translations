@@ -434,7 +434,7 @@ msgstr "Вряд ли"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178234}"
 msgid "Neither likely nor unlikely"
-msgstr "Ни вероятно, ни маловероятно"
+msgstr "Нейтральное мнение"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178235}"
 msgid "Likely"
