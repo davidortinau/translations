@@ -224,7 +224,7 @@ msgstr ""
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107414}"
 msgid "Anything else you would like us to know about your Xamarin experience?"
 msgstr ""
-"Дополнительная информация, которую вы хотите сообщить нам, о вашем опыте работы с Xamarin."
+"Желаете сообщить дополнительную информацию о вашем опыте работы с Xamarin?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107405}"
 msgid ""
