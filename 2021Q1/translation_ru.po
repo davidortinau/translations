@@ -755,7 +755,7 @@ msgstr ""
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178225}"
 msgid "Only PDF, DOC, DOCX, PNG, JPG, JPEG, GIF files are supported."
 msgstr ""
-"Поддерживаются только следующие форматы: PDF, DOC, DOCX, PNG, JPG, JPEG, GIF ."
+"Поддерживаются только следующие форматы: PDF, DOC, DOCX, PNG, JPG, JPEG, GIF."
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4086947848}"
 msgid "ActivityIndicator"
