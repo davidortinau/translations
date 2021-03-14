@@ -281,7 +281,7 @@ msgid ""
 "What is your motivation for wanting those platforms to be supported in .NET "
 "MAUI?"
 msgstr ""
-"Почему вам необходимо, чтобы эти платформы поддерживались .NET MAUI?"
+"Почему вам важно, чтобы эти платформы поддерживались .NET MAUI?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622047684}"
 msgid "Please describe your application that is important on these platform(s)."
