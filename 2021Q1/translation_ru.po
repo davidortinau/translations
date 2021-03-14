@@ -572,7 +572,7 @@ msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4051178322, \"checksum\": "
 "2925724168}"
 msgid "Please enter a comment."
-msgstr "Оставьте комментарий."
+msgstr "Пожалуйста, оставьте комментарий."
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178332}"
 msgid "Older than 4.0"
