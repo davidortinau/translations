@@ -160,7 +160,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107418}"
 msgid "What version(s) of Xamarin.Forms are you currently using?"
-msgstr "Какую версию (версии)  Xamarin.Forms Вы используете в настоящее время?"
+msgstr "Какую версию (версии) Xamarin.Forms Вы используете в настоящее время?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107419}"
 msgid ""
