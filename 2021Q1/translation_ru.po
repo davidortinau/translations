@@ -1025,7 +1025,7 @@ msgctxt ""
 "{\"cxt\": \"question_option_text\", \"id\": 4088266229, \"checksum\": "
 "2925724168}"
 msgid "Please enter a comment."
-msgstr "Оставьте комментарий."
+msgstr "Пожалуйста, оставьте комментарий."
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4088044457}"
 msgid "Linux"
