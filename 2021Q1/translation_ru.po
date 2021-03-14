@@ -476,7 +476,7 @@ msgstr "Крайне недоволен"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178257}"
 msgid "Dissatisfied"
-msgstr "Недовольный"
+msgstr "Недоволен"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051178258}"
 msgid "Neither satisfied nor dissatisfied"
