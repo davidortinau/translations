@@ -203,7 +203,7 @@ msgid ""
 "Xamarin.Forms? (check all that apply)"
 msgstr ""
 "За последние 3 месяца на каких платформах вы&nbsp;выпустили приложения, "
-"использующие Xamarin.Forms? (Выберите все, что подходит)"
+"использующие Xamarin.Forms? (Выберите все, что подходят)"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107415}"
 msgid ""
