@@ -301,7 +301,7 @@ msgid ""
 "Which UI design elements does your current or last application include? "
 "(select all that apply)"
 msgstr ""
-"Какие элементы пользовательского интерфейса используются вашем текущем "
+"Какие элементы пользовательского интерфейса используются в вашем текущем "
 "или последнем приложение? (выберите всё, что подходит)"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 623517951}"
