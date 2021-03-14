@@ -1284,7 +1284,7 @@ msgstr "Другое (укажите)"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 4097403439}"
 msgid "Why did you need a Shell renderer?"
-msgstr "Зачем вам нужен рендерер для Shell?"
+msgstr "Зачем вам понадобился рендерер для Shell?"
 
 msgctxt ""
 "{\"cxt\": \"question_required\", \"id\": 4051178209, \"checksum\": 305044011}"
