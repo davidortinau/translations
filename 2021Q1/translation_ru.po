@@ -308,7 +308,7 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 623517951}"
 msgid ""
 "What method(s) do you use to&nbsp;pass data while navigating from page to page?"
 msgstr ""
-"Какие способы вы используете для передачи данных при навигации между страницами?"
+"Какой способ (какие способы) вы используете для передачи данных при навигации между страницами?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 623522040}"
 msgid "Have you used a custom Shell renderer?"
