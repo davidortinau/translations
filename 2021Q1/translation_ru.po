@@ -688,7 +688,7 @@ msgstr "Очень часто"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222735}"
 msgid "Neither often nor frequently"
-msgstr "Нейтрально"
+msgstr "Иногда"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 4051222737}"
 msgid "App takes a long time to start"
