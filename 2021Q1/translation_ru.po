@@ -172,7 +172,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107420}"
 msgid "What type of customer do you primarily serve?"
-msgstr "С каким типом клиентов вы предпочитаете сотрудничать?"
+msgstr "На каких потребителей, в основном, ориентированы ваши приложения?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616115045}"
 msgid "How&nbsp;often do your app users report the following?"
@@ -244,7 +244,7 @@ msgstr ""
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 616107416}"
 msgid "What is the design goal of your latest Xamarin.Forms application?"
-msgstr "Какова цель дизайна вашего последнего приложения на Xamarin.Forms?"
+msgstr "Как зависит дизайн вашего последнего приложения от разных платформ?"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 622151063}"
 msgid "I want these to look and behave _______ across platforms."
